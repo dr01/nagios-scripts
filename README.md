@@ -1,2 +1,2 @@
 # nagios-scripts
-Plug-in scripts for Nagios monitoring tool
+Plug-in scripts for Nagios monitoring tool.
